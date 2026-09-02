@@ -61,33 +61,6 @@ I enjoy building practical applications, exploring new technologies, and turning
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpandanL96&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpandanL96&layout=compact&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpandanL96&hide_border=true" />
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpandanL96&hide_border=true&area=true" />
-
-</p>
 
 ---
 
