@@ -26,12 +26,12 @@ I enjoy building practical applications, exploring new technologies, and turning
 
 ## 💫 About Me
 
-- 💻 Aspiring **Software & Web Developer**
-- 🌱 Currently improving my skills in **Java, JavaScript, React, Python and Full-Stack Development**
-- 🔭 Building projects to solve real-world problems
-- 📚 Passionate about learning new technologies and improving my problem-solving skills
-- 🤝 Open to **Software Development, Web Development, Internship and Entry-Level opportunities**
-- ⚡ I believe in learning by building
+* 💻 Aspiring **Software & Web Developer**
+* 🌱 Currently improving my skills in **Java, JavaScript, React, Python and Full-Stack Development**
+* 🔭 Building projects to solve real-world problems
+* 📚 Passionate about learning new technologies and improving my problem-solving skills
+* 🤝 Open to **Software Development, Web Development, Internship and Entry-Level opportunities**
+* ⚡ I believe in learning by building
 
 ---
 
@@ -93,14 +93,14 @@ I enjoy building practical applications, exploring new technologies, and turning
 
 # 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🎓 **Student-Teacher Appointment System** | A platform that helps students connect and book appointments with teachers. Includes separate student, teacher and admin functionalities. | Web Development, Database |
-| 🎮 **3D Web Game** | An interactive browser-based 3D game built using modern web graphics technologies. | Three.js, WebGL, JavaScript |
-| ⏳ **Countdown Timer** | A responsive countdown application with dynamic timer functionality. | HTML, CSS, JavaScript |
-| 🧠 **Interactive Quiz App** | A quiz application featuring multiple questions, timer functionality and score tracking. | HTML, CSS, JavaScript |
-| ❌⭕ **Tic Tac Toe Game** | A classic interactive Tic Tac Toe game with game logic and dynamic UI. | HTML, CSS, JavaScript |
-| 💼 **Portfolio Website** | My personal portfolio showcasing my skills, projects and development journey. | HTML, CSS, JavaScript |
+| Project                                   | Description                                                                                                                               | Technologies                |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 🎓 **Student-Teacher Appointment System** | A platform that helps students connect and book appointments with teachers. Includes separate student, teacher and admin functionalities. | Web Development, Database   |
+| 🎮 **3D Web Game**                        | An interactive browser-based 3D game built using modern web graphics technologies.                                                        | Three.js, WebGL, JavaScript |
+| ⏳ **Countdown Timer**                     | A responsive countdown application with dynamic timer functionality.                                                                      | HTML, CSS, JavaScript       |
+| 🧠 **Interactive Quiz App**               | A quiz application featuring multiple questions, timer functionality and score tracking.                                                  | HTML, CSS, JavaScript       |
+| ❌⭕ **Tic Tac Toe Game**                   | A classic interactive Tic Tac Toe game with game logic and dynamic UI.                                                                    | HTML, CSS, JavaScript       |
+| 💼 **Portfolio Website**                  | My personal portfolio showcasing my skills, projects and development journey.                                                             | HTML, CSS, JavaScript       |
 
 > ⭐ Check out my repositories below and explore my projects!
 
