@@ -1,8 +1,12 @@
+<div align="center">
 # Hi 👋, I'm Spandan L
 
 ### Software Engineer | Full Stack Developer | AI & Prompt Engineering Enthusiast
 
 <p>
+<a href="https://www.linkedin.com/in/spandan-l" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Spandan%20L-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
   <a href="mailto:spandan963@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
