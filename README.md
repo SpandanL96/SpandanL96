@@ -1,11 +1,3 @@
-Yes. I can improve your **GitHub Profile README for `SpandanL96`** and make it look professional, modern, and visually attractive.
-
-One important point: the search results did **not reliably expose your exact repository list**, so I won't invent repository names or links. GitHub provides a public way to list a user's repositories, but to make the README accurately reflect your newly updated projects, I'd ideally inspect the repository list directly. ([GitHub Docs][1])
-
-Based on the projects you've previously shared—such as **3D Web Game, Student-Teacher Appointment Booking System, Hand Gesture Recognition, Jarvis AI, Game Quest, Quiz App, Countdown Timer, and Portfolio**—here is an improved profile README designed to avoid broken sections.
-
-<div align="center">
-
 # Hi 👋, I'm Spandan L
 
 ### Software Engineer | Full Stack Developer | AI & Prompt Engineering Enthusiast
@@ -172,38 +164,6 @@ A gaming marketplace platform designed for discovering, buying, rating, and revi
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpandanL96&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Spandan's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpandanL96&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SpandanL96&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SpandanL96&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ## 🌟 What I Work With
 
 ```text
@@ -274,12 +234,5 @@ Tools          → Git • GitHub • Docker • VS Code • PyCharm
 
 </div>
 
-### My recommendation
-
-This version is **safer than many flashy README templates** because it doesn't use complicated custom SVG workflows or manually hard-coded repository cards that can easily break. The GitHub analytics sections automatically use your username `SpandanL96`.
-
-Your repositories can be browsed here: [SpandanL96 GitHub Repositories](https://github.com/SpandanL96?tab=repositories&utm_source=chatgpt.com)
-
-If you share the exact names of your **newly updated repositories** (or a screenshot of the repository page), I can produce a **Version 2 with exact Featured Project links, descriptions, live demo buttons, repository buttons, and no guessed project information**.
 
 [1]: https://docs.github.com/en/enterprise-cloud%40latest/rest/repos/repos?apiVersion=2026-03-10&utm_source=chatgpt.com "REST API endpoints for repositories - GitHub Enterprise Cloud Docs"
