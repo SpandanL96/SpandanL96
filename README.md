@@ -1,4 +1,3 @@
-<div align="center">
 # Hi 👋, I'm Spandan L
 
 ### Software Engineer | Full Stack Developer | AI & Prompt Engineering Enthusiast
